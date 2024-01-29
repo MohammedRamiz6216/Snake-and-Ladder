@@ -90,6 +90,7 @@ public class Main {
         System.out.println("Total no of dice thrown by player 1:"+count);
         if(PositionofplayerA>=100){
             System.out.println(A+" is the winner ...");
+            System.out.println(A+"Now Reached 100");
         }
     }
 }
