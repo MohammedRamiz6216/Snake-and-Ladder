@@ -7,5 +7,11 @@ public class Main {
      int count=0;
      int x;
         System.out.println("Enter the Player 1 ");
+        while(PositionofplayerA!=100){
+            System.out.println();
+            x=1+(int)(Math.random()*(6-1+1));
+            System.out.println(A+" Throws "+ x);
+            System.out.println(A+" Reaches to cell "+ PositionofplayerA);
+        }
     }
 }
