@@ -12,6 +12,21 @@ public class Main {
             x=1+(int)(Math.random()*(6-1+1));
             System.out.println(A+" Throws "+ x);
             System.out.println(A+" Reaches to cell "+ PositionofplayerA);
+
+
+        switch(PositionofplayerA)
+        {
+            case 10:
+                System.out.println(A+"Player 1 reaches to the base of a ladder "); PositionofplayerA=22;
+                System.out.println(A+"Now player reached position 22");
+                break;
+
+
+            case 18:
+                System.out.println(A+"Player 1 reaches to the base of a ladder "); PositionofplayerA=22;
+                System.out.println(A+"Now player reached position 22");
+                break;
+        }
         }
     }
 }
