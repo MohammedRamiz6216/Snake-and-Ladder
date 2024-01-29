@@ -21,69 +21,69 @@ public class Main {
         {    //for ladders
             case 8:
                 System.out.println(A+" reaches to the base of a ladder "); PositionofplayerA=22;
-                System.out.println(A+" reached position 22");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
 
             case 15:
                 System.out.println(A+" reaches to the base of a ladder "); PositionofplayerA=20;
-                System.out.println(A+" reached position 20");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 19:
                 System.out.println(A+" reaches to the base of a ladder "); PositionofplayerA=27;
-                System.out.println(A+" reached position 27");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 29:
                 System.out.println(A+" reaches to the base of a ladder "); PositionofplayerA=36;
-                System.out.println(A+" reached position 36");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 38:
                 System.out.println(A+" reaches to the base of a ladder "); PositionofplayerA= 54;
-                System.out.println(A+" reached position 54");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 65:
                 System.out.println(A+" reaches to the base of a ladder "); PositionofplayerA=96;
-                System.out.println(A+" reached position 96");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 71:
                 System.out.println(A+" reaches to the base of a ladder "); PositionofplayerA=92;
-                System.out.println(A+" reached position 92");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
             // for snakes
 
             case 14:
                 System.out.println(A+" reaches to the base of a snake "); PositionofplayerA=4;
-                System.out.println(A+" reached position 4");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 21:
                 System.out.println(A+" reaches to the base of a snake "); PositionofplayerA=13;
-                System.out.println(A+" reached position 13");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 42:
                 System.out.println(A+" reaches to the base of a snake "); PositionofplayerA=17;
-                System.out.println(A+" reached position 17");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 59:
                 System.out.println(A+" reaches to the base of a snake "); PositionofplayerA=32;
-                System.out.println(A+" reached position 32");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 76:
                 System.out.println(A+"Player 1 reaches to the base of a snake "); PositionofplayerA=9;
-                System.out.println(A+" reached position 9");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
 
             case 92:
                 System.out.println(A+"Player 1 reaches to the base of a snake "); PositionofplayerA=83;
-                System.out.println(A+" reached position 83");
+                System.out.println(A+" reached position "+PositionofplayerA);
                 break;
             default:break;
         }
